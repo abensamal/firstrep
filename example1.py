@@ -1,6 +1,7 @@
 import collections
 from random import choice
 #first
+#second
 Card = collections.namedtuple('Card', ['rank', 'suit'])
 
 class FrenchDeck:
